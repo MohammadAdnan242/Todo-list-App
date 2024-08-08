@@ -42,6 +42,9 @@ Start the development server:
 npm start
 
 Open your browser and navigate to http://localhost:5173 to see the application in action.
+or
+I deployed it on netlify with url :https://todolistapp1230.netlify.app/
+
 Code Quality
 The code is well-organized and modular.
 Proper comments are added to enhance readability and maintainability.
