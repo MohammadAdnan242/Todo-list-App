@@ -29,10 +29,10 @@ The frontend of the application is built using React or Next.js.
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/task-management-app.git
+git clone https://github.com/MohammadAdnan242/Todo-list-App
 
 Navigate to the project directory:
-cd task-management-app
+cd Todo-List App
 
 Install the dependencies:
 npm install
@@ -41,7 +41,7 @@ Usage
 Start the development server:
 npm start
 
-Open your browser and navigate to http://localhost:3000 to see the application in action.
+Open your browser and navigate to http://localhost:5173 to see the application in action.
 Code Quality
 The code is well-organized and modular.
 Proper comments are added to enhance readability and maintainability.
