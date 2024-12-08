@@ -1,55 +1,56 @@
-Todo List App
+# Todo List App
 
-Table of Contents:
-1.Introduction
-2.Core Features
-3.Data Storage
-4.Framework
-5.Installation
-6.Usage
-7.Code Quality
-8.Contributing
-9.License
+Efficiently manage your tasks with this feature-rich Todo List App! Create, update, mark as done, and search tasks with ease. 
 
-Introduction:
-This is a task management application that allows users to efficiently manage their tasks. Users can create, update, mark as done, and search tasks. The tasks are displayed in an expandable list format, showing a description and a timestamp of the last update when expanded.
+---
 
-Core Features
-Create Task: Allow users to add new tasks.
-Update Task: Allow users to edit existing tasks.
-Mark as Done: Allow users to mark tasks as completed.
-Search Tasks: Implement a search functionality to filter tasks.
-Expandable List: Display tasks in an expandable list format, showing a description and a timestamp of the last update when expanded.
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Core Features](#core-features)
+3. [Data Storage](#data-storage)
+4. [Framework](#framework)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [Code Quality](#code-quality)
+8. [Contributing](#contributing)
+9. [License](#license)
 
-Data Storage
-The application uses a dummy JSON file as a data repository to store tasks.
+---
 
-Framework
-The frontend of the application is built using React or Next.js.
+## Introduction
 
-Installation
-Clone the repository:
-git clone https://github.com/MohammadAdnan242/Todo-list-App
+The **Todo List App** is a task management application designed to help users efficiently organize their daily tasks. Tasks are displayed in an expandable list format, showing a description and a timestamp of the last update when expanded. It's simple, intuitive, and perfect for boosting productivity!
 
-Navigate to the project directory:
-cd Todo-List App
+---
 
-Install the dependencies:
-npm install
+## Core Features
+- **Create Task**: Add new tasks seamlessly.
+- **Update Task**: Edit existing tasks effortlessly.
+- **Mark as Done**: Mark tasks as completed to stay organized.
+- **Search Tasks**: Quickly find tasks with the integrated search functionality.
+- **Expandable List**: View task details and timestamps in an expandable list format.
 
-Usage
-Start the development server:
-npm start
+---
 
-Open your browser and navigate to http://localhost:5173 to see the application in action.
-or
-I deployed it on netlify with url :https://todolistapp1230.netlify.app/
+## Data Storage
 
-Code Quality
-The code is well-organized and modular.
-Proper comments are added to enhance readability and maintainability.
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
+The application utilizes a dummy JSON file as a data repository to manage and store tasks.
 
-License
-This project is licensed under the MIT License.
+---
+
+## Framework
+
+The frontend of the application is built using **React** or **tailwins css*, providing a dynamic and responsive user experience.
+
+---
+
+## Installation
+
+Follow these steps to set up the Todo List App locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/MohammadAdnan242/Todo-list-App
+
+2. **live link**:
+https://todolistapp1230.netlify.app/   
